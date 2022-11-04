@@ -1,0 +1,4 @@
+este é um bloco de notas com os links de softwares, sites para estudos, etc.
+
+https://www.markdownguide.org/
+markdown guide
